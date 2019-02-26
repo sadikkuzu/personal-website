@@ -28,9 +28,6 @@ topics:
     web_url: https://github.com/topics/mongodb
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mongodb/mongodb.png
 
-  - name: Testing
-    web_url: https://github.com/topics/testing
-
   - name: SQL
     web_url: https://github.com/topics/sql
     image_url: https://raw.githubusercontent.com/github/explore/5a90ece3593b9a5c492b815ed9f162edec073b28/topics/sql/sql.png
@@ -54,3 +51,6 @@ topics:
   - name: Lua
     web_url: https://github.com/topics/lua
     image_url: https://raw.githubusercontent.com/github/explore/be752a07bff3189f84c510826af5b75c97eaaeb2/topics/lua/lua.png
+
+  - name: Testing
+    web_url: https://github.com/topics/testing
