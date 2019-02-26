@@ -28,6 +28,9 @@ topics:
     web_url: https://github.com/topics/mongodb
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mongodb/mongodb.png
 
+  - name: Testing
+    web_url: https://github.com/topics/testing
+
   - name: SQL
     web_url: https://github.com/topics/sql
     image_url: https://raw.githubusercontent.com/github/explore/5a90ece3593b9a5c492b815ed9f162edec073b28/topics/sql/sql.png
@@ -35,9 +38,6 @@ topics:
   - name: Raspberry Pi
     web_url: https://github.com/topics/raspberry-pi
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/raspberry-pi/raspberry-pi.png
-
-  - name: Testing
-    web_url: https://github.com/topics/testing
 
   - name: Telegram
     web_url: https://github.com/topics/telegram
