@@ -52,6 +52,18 @@ topics:
     web_url: https://github.com/topics/spacevim
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spacevim/spacevim.png
 
+  - name: Awesome lists
+    web_url: https://github.com/topics/awesome
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png
+
+  - name: Amazon Web Services
+    web_url: https://github.com/topics/aws
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png
+  
+  - name: Azure
+    web_url: https://github.com/topics/azure
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png
+
 ##  - name: .NET
 ##    web_url: https://github.com/topics/dotnet
 ##    image_url: https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png
@@ -79,12 +91,12 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   hackerrank: sadikkuzu
-  # instagram: your_username
+  instagram: sadikkuzu.photos
   # keybase: your_username
   linkedin: sadikkuzu
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: your_user_id
+  stackoverflow: 7030591
   telegram: sadikkuzu_mba
   twitter: sadikkuzu_mba
   # unsplash: your_username
