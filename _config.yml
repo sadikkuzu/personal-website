@@ -36,9 +36,13 @@ topics:
     web_url: https://github.com/topics/raspberry-pi
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/raspberry-pi/raspberry-pi.png
 
-  - name: Telegram
-    web_url: https://github.com/topics/telegram
-    image_url: https://raw.githubusercontent.com/github/explore/16c099db345f68fc7089df2810bf07914d75c70c/topics/telegram/telegram.png
+#  - name: Telegram
+#    web_url: https://github.com/topics/telegram
+#    image_url: https://raw.githubusercontent.com/github/explore/16c099db345f68fc7089df2810bf07914d75c70c/topics/telegram/telegram.png
+
+- name: Awesome lists
+    web_url: https://github.com/topics/awesome
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png
 
   - name: Linux
     web_url: https://github.com/topics/linux
@@ -48,21 +52,17 @@ topics:
     web_url: https://github.com/topics/bash
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png
 
-  - name: Vim
-    web_url: https://github.com/topics/spacevim
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spacevim/spacevim.png
-
-  - name: Awesome lists
-    web_url: https://github.com/topics/awesome
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png
+##  - name: Vim
+##    web_url: https://github.com/topics/spacevim
+##    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spacevim/spacevim.png
 
   - name: Amazon Web Services
     web_url: https://github.com/topics/aws
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png
   
-  - name: Azure
-    web_url: https://github.com/topics/azure
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png
+##  - name: Azure
+##    web_url: https://github.com/topics/azure
+##    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png
 
 ##  - name: .NET
 ##    web_url: https://github.com/topics/dotnet
