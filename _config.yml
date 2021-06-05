@@ -68,22 +68,22 @@ topics:
 ##    web_url: https://github.com/topics/dotnet
 ##    image_url: https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png
 
-#
-#  - name: Docker
-#    web_url: https://github.com/topics/docker
-#    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
-#
-#  - name: Kubernetes
-#    web_url: https://github.com/topics/kubernetes
-#    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
+
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
+
+  - name: Kubernetes
+    web_url: https://github.com/topics/kubernetes
+    image_url: https://raw.githubusercontent.com/github/explore/46beb428f6ba77f5de33ba7633402379aba5d92d/topics/kubernetes/kubernetes.png
 #
 #  - name: Lua
 #    web_url: https://github.com/topics/lua
 #    image_url: https://raw.githubusercontent.com/github/explore/be752a07bff3189f84c510826af5b75c97eaaeb2/topics/lua/lua.png
 
-#  - name: Testing
-#    web_url: https://github.com/topics/testing
-# 
+  - name: Testing
+    web_url: https://github.com/topics/testing
+ 
 
 
 social_media:
