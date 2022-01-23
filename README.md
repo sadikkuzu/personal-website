@@ -226,3 +226,7 @@ You also have the option to add on to and extend Primer's styles by adding custo
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/sadikkuzu/personal-website/master.svg)](https://results.pre-commit.ci/latest/github/sadikkuzu/personal-website/master)
