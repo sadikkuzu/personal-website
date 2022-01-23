@@ -52,7 +52,7 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
   - name: Git
-    web_url: https://github.com/topics/git  
+    web_url: https://github.com/topics/git
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
 
   - name: MongoDB
@@ -90,7 +90,7 @@ topics:
   - name: Amazon Web Services
     web_url: https://github.com/topics/aws
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png
-  
+
 ##  - name: Azure
 ##    web_url: https://github.com/topics/azure
 ##    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png
@@ -114,7 +114,7 @@ topics:
 
   - name: Algorithm
     web_url: https://github.com/topics/algorithm
- 
+
 
 
 social_media:
